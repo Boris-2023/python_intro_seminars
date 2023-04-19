@@ -6,7 +6,7 @@
 
 str_split = input("Enter a set of symbols separated by space ' ':\t").split()
 
-#print(f"\nString as a list: {str_split}\n")
+# print(f"\nString as a list: {str_split}\n")
 
 res = {}
 for i in str_split:
