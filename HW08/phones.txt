@@ -1,0 +1,5 @@
+Ivanov:Ivan:123456:home
+Petrov:Petr:456789:mobile
+Sidorov:Ivan:457895:work
+Ivanov:Sergey:354367:home
+Semenov:Semen:785426:no comment
